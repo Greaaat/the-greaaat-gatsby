@@ -12,14 +12,14 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
-    "@adriantombu/array-shuffle": "^2.0.3",
-    "gatsby": "^2.0.76",
-    "gatsby-plugin-react-helmet": "^3.0.5",
-    "gatsby-source-filesystem": "^2.0.16",
-    "gatsby-transformer-remark": "^2.2.0",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-helmet": "^5.2.0"
+    "@adriantombu/array-shuffle": "^2.0.10",
+    "gatsby": "^3.10.2",
+    "gatsby-plugin-react-helmet": "^4.10.0",
+    "gatsby-source-filesystem": "^3.10.0",
+    "gatsby-transformer-remark": "^4.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
   },
   "repository": {
     "type": "git",

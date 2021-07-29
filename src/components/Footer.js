@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-export default ({ subFooter }) => (
+const Footer = ({ subFooter }) => (
   <>
     { subFooter &&
       <div className="sub-footer txt-center">
@@ -40,3 +40,5 @@ export default ({ subFooter }) => (
     </footer>
   </>
 )
+
+export default Footer

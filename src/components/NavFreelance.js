@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-export default ({ current }) => (
+const NavFreelance = ({ current }) => (
   <ul className="nav-freelance">
     <li className={getClasses(current, 'admin-sys-devops')}>
       <Link to="/prestation/admin-sys-devops">Admin Sys &amp; DevOps</Link>
@@ -30,3 +30,5 @@ const getClasses = (current, slug) => {
 
   return classes
 }
+
+export default NavFreelance

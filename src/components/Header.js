@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import logo from '../assets/img/logo-greaaat.svg'
 
-export default class Header extends Component {
+class Header extends Component {
   state = {
     showMenu: false
   }
@@ -58,3 +58,5 @@ const getClasses = (current, slug) => {
 
   return classes
 }
+
+export default Header

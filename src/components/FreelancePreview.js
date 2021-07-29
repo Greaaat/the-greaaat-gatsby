@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, withPrefix } from 'gatsby'
 
-export default ({ data }) => (
+const FreelancePreview = ({ data }) => (
   <article className="freelance" key={data.slug}>
     <Link to={`/freelances/${data.slug}`} className="freelance__link media" title={data.title}>
       <div className="freelance__thumb-box">
@@ -31,3 +31,5 @@ export default ({ data }) => (
     </Link>
   </article>
 )
+
+export default FreelancePreview

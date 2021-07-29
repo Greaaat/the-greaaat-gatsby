@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import Page from '../components/Page'
 
-export default () => (
+const Success = () => (
   <Page bodyClass="contact" title="Message envoyé">
     <section className="banner">
       <div className="banner__text">
@@ -16,3 +16,5 @@ export default () => (
     </section>
   </Page>
 )
+
+export default Success

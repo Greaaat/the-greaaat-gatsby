@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import Page from '../components/Page'
 
-export default () => (
+const Index = () => (
   <Page bodyClass="home" title="Greaaat">
     <section>
       <div className="banner">
@@ -128,3 +128,5 @@ export default () => (
     </section>
   </Page>
 )
+
+export default Index

@@ -6,7 +6,7 @@ import Header from '../components/Header'
 import Main from '../components/Main'
 import Footer from '../components/Footer'
 
-export default ({ bodyClass, title, description, children, subFooter = true }) => (
+const Page = ({ bodyClass, title, description, children, subFooter = true }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -39,3 +39,5 @@ export default ({ bodyClass, title, description, children, subFooter = true }) =
     )}
   />
 )
+
+export default Page

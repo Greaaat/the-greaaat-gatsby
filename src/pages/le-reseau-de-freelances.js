@@ -2,7 +2,7 @@ import React from 'react'
 
 import Page from '../components/Page'
 
-export default () => (
+const About = () => (
   <Page bodyClass="le-reseau-de-freelances" title="Le réseau de freelances">
     <div className="banner banner--big">
       <div className="wrapper">
@@ -47,3 +47,5 @@ export default () => (
     </div>
   </Page>
 )
+
+export default About

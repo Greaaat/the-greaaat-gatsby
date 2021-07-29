@@ -2,7 +2,7 @@ import React from 'react'
 
 import Page from '../components/Page'
 
-export default () => (
+const Contact = () => (
   <Page bodyClass='contact' subFooter={false} title="Contactez-nous">
     <div className="banner banner--big">
       <div className="wrapper">
@@ -82,3 +82,5 @@ export default () => (
     </div>
   </Page>
 )
+
+export default Contact

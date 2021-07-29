@@ -6,7 +6,7 @@ import Page from '../components/Page'
 import NavFreelance from '../components/NavFreelance'
 import FreelancePreview from '../components/FreelancePreview'
 
-export default class Freelances extends Component {
+class Freelances extends Component {
   state = {
     freelances: []
   }
@@ -68,3 +68,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default Freelances
