@@ -1,11 +1,11 @@
 ---
 title: Thibaut Barrère
-position: Développeur RubyOnRails
+position: Data engineer, développeur full-stack (Elixir, Ruby, Javascript...), dev-ops.
 city: Charente-Maritime
-website: www.logeek.fr
+website: https://thibautbarrere.com
 facebook: xxx
 twitter: https://twitter.com/thibaut_barrere
-linkedin: xxx
+linkedin: https://www.linkedin.com/in/barrere/
 dribble: xxx
 github: xxx
 viadeo: xxx
@@ -13,13 +13,9 @@ behance: xxx
 picture: thibaut-barrere.jpg
 slug: thibaut-barrere
 seoTitle: Thibaut Barrère
-seoDescription: Développeur RubyOnRails
+seoDescription: Développeur Elixir, data-engineer, dev-ops
 ---
 
-Depuis 2005, j’accompagne mes clients sur des missions pointues RubyOnRails.
+Indépendant depuis 2005, je suis à la fois data engineer confirmé, capable de travailler sur des pipelines de données, développeur full-stack (actuellement concentré sur la plateforme Elixir / Phoenix, mais globalement polyglotte, et dev-ops.
 
-Je suis développeur back-end (code applicatif lourd, ETL, workers) et front-end. J’applique les méthodes agiles (j’ai été certifié SCRUM product owner) pour déterminer quelles sont les solutions les plus intéressantes pour mes clients et suivre mes projets, et je maîtrise la chaîne complète de développement, test et d’industrialisation (intégration continue etc).
-
-Mes chantiers actuels portent sur la scalabilité, le traitement de la dette technique, le multithreading, l’aide au rachat de produits SaaS, l’implémentation de produits SaaS (billing y compris).
-
-Je développe et commercialise également mon propre outil SaaS, [WiseCash](https://www.wisecashhq.com/), outil léger de prévisionnel de trésorerie.
+Mes chantiers actuels portent sur les standards de données de transports et leur ouverture en open-data (https://transport.data.gouv.fr), le traitement de la dette technique sur les projets logiciels, les dev-ops, et l'industrialisation des développements.
