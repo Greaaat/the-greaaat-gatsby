@@ -6,7 +6,6 @@ freelances:
     "Adrian Tombu",
     "Alexandre Benaim",
     "Angèle Tenot",
-    "Chris Scholly",
     "David Deloo",
     "Jérôme Béhuet",
     "Joel Rotelli",
