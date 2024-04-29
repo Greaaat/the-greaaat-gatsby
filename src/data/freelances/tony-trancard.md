@@ -16,8 +16,8 @@ seoTitle: Tony Trancard
 seoDescription: Concepteur digital
 ---
 
-J’ai 35 ans, je suis originaire de Lille et depuis 2004, vis en Lozère, au milieu du Parc national des Cévennes. Un lieu propice à la créativité et à la sérénité.
+C'est avec une solide expérience en développement et une profonde compréhension des exigences spécifiques de l'industrie des sports, particulièrement dans le domaine des sports urbains, que je mets en pratique mon esprit entrepreneurial pour transformer des concepts novateurs en projets digitaux performants. Ma démarche, axée sur l'individualité de chaque projet, repose sur une collaboration étroite avec mes clients.
 
-Après une formation en comptabilité et gestion PME/PMI, je m’oriente vers les nouvelles technologies et le design sonore. Féru d’interactivité et autodidacte aguerri, je suis constamment à l’affût des dernières innovations technologiques et visuelles.
+Mon approche est centrée sur l'innovation et la précision, garantissant que chaque projet réponde non seulement aux attentes des clients, mais les dépasse également grâce à des solutions frontales avancées et des designs captivants.
 
-Freelance depuis 2009, j’interviens pour les agences de communication traditionnelles et digitales. Je mets au service de mes clients/partenaires expertise et conseil. Depuis Septembre 2012, j’interviens au sein de l’Université de Mende, en licence pro multimédia. Je donne des cours et conseils aux étudiants en webdesign et ergonomie.
+Mon parcours entrepreneurial m'a appris l'importance de l'innovation constante et de l'adaptabilité, qualités que je mets au service de chaque projet pour garantir son succès.
